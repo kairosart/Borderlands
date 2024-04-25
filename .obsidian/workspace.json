@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "7ff06627fe137ce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "029dc1f9066a0039",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55f442918b74acf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Borderlands/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5d81655c559deee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network 1/Web flag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b57c479a82cf8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Router 1/BGP hIjacking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09d08a380c284055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP flag.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1bbdd5f2044998a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UDP flag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89ea158e8acb2078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP flag.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f63fe2a839747693",
+    "type": "split",
+    "children": [
+      {
+        "id": "40682c66149b265e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a28d01a58a45d522",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ef95726b98dde9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0b0ec058f32b60fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ff8dc4a4e8e8ad0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d7787c56c2ccc16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0149e5135de0dfcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Borderlands/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e199e6f45ebece6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Borderlands/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e5dd4dfcb013fa4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fddb346339a48631",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Borderlands/README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "55f442918b74acf9",
+  "lastOpenFiles": [
+    "Squeme.md",
+    "TCP flag.md",
+    "web",
+    "UDP flag.md",
+    "Router 1/BGP hIjacking.md",
+    "Images/tcpdump.png",
+    "Router 1/Router1 flag.md",
+    "Diagram0.svg",
+    "Diagram0.md",
+    "Images/Diagram.svg",
+    "Network 1/WEBAPP flag.md",
+    "Network 1/Web flag.md",
+    "Network 1/GitHack.md",
+    "Router 2",
+    "Images/Diagram.svg.xml"
+  ]
+}
