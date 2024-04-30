@@ -16,8 +16,8 @@ Run the exploit.
 [+] Demystifying_the_Exploit_Kit_-_Context_White_Paper.pdf
 [+] Glibc_Adventures-The_Forgotten_Chunks.pdf
 [+] api.php
-[[APK flag]]
-[[GIT flag]]
+[[1. What is the API key that fits the following pattern- "AND*"]]
+[[3. What is the API key that fits the following pattern-"GIT*"]]
 [[WEBAPP flag]]
 [+] functions.php
 [+] home.php
@@ -34,4 +34,4 @@ Run the exploit.
 [OK] CTX_WSUSpect_White_Paper.pdf
 [OK] Demystifying_the_Exploit_Kit_-_Context_White_Paper.pdf
 
-[[Web flag]]
+[[2. What is the API key that fits the following pattern- "WEB*"]]
