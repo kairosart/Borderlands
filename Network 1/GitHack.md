@@ -18,7 +18,7 @@ Run the exploit.
 [+] api.php
 [[1. What is the API key that fits the following pattern- "AND*"]]
 [[3. What is the API key that fits the following pattern-"GIT*"]]
-[[WEBAPP flag]]
+[[4. What is the flag in the var www directory of the web app host? {FLAG Webapp XXX}]]
 [+] functions.php
 [+] home.php
 [+] index.php
