@@ -149,7 +149,7 @@ The network address "172.16.2.0/25" represents a subnet with the following chara
 
 
 
-![[Diagram.svg]]
+![[Diagram1.svg]]
 
 
 ### Capturing packets with tcpdump

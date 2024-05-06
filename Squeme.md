@@ -1,3 +1,3 @@
 ![[borderlands1.png]]
 
-![[Diagram.svg]]
+![[Diagram1.svg]]
