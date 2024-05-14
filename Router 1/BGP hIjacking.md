@@ -30,7 +30,7 @@ The easiest way to understand BGP hijacking is to compare it to someone secretly
 You saw “quagga” mentioned in the Router exploration section , but what is quagga ?  
 Basically quagga is a routing software and since quagga is installed on this host then most likely we are going to perform bgp-hijacking or route-hijacking.
 
-You can see there are two configuration files:\
+You can see there are two configuration files:
 
 #### /etc/quagga/bgpd.conf
 
