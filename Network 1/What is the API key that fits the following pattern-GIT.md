@@ -123,4 +123,4 @@ if ($docDetails !== null)
 
 The GIT flag is **GITtFi80llzs4TxqMWtCotiTZpf0HC**.
 
-**Next step:** [[4. What is the flag in the var www directory of the web app host? {FLAG Webapp XXX}]]
+**Next step:** [[What is the flag in the var www directory of the web app host FLAG Webapp XXX]]

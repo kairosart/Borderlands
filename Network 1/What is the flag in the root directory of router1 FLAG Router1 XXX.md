@@ -1,5 +1,5 @@
 
-On the shell you got on the [[4. What is the flag in the var www directory of the web app host? {FLAG Webapp XXX}#Meterpreter|Meterpreter]] run the following:
+On the shell you got on the [[What is the flag in the var www directory of the web app host FLAG Webapp XXX#Meterpreter|Meterpreter]] run the following:
 
 ```
 meterpreter> shell

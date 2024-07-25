@@ -64,18 +64,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1b9b7f67fa4d6e89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Squeme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       },
@@ -174,7 +162,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +178,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,9 +199,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -237,10 +221,56 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "962485d2fb191664",
+  "floating": {
+    "id": "e51855959dfd0d98",
+    "type": "floating",
+    "children": [
+      {
+        "id": "571e57e65ab915ae",
+        "type": "window",
+        "children": [
+          {
+            "id": "1791680cee2f69c5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8c416e7f86debe9c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Network 1/1. What is the API key that fits the following pattern- \"AND*\".md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d9f7f99f845a5738",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 195,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d9f7f99f845a5738",
   "lastOpenFiles": [
     "Network 1/1. What is the API key that fits the following pattern- \"AND*\".md",
     "index.md",
+    "Squeme.md",
     "References.md",
     "docs",
     "UDP flag.md",
@@ -254,7 +284,6 @@
     "Network 1/GitHack.md",
     "Network 1/Network 1 - Enumeration.md",
     "Images/borderlands1.png",
-    "Squeme.md",
     "Images/Screenshot from 2024-07-25 19-34-00.png",
     "Images/Diagram1.svg",
     "Images/Diagram0.png",

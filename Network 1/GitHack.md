@@ -31,5 +31,5 @@ OK Glibc_Adventures-The_Forgotten_Chunks.pdf
 OK CTX_WSUSpect_White_Paper.pdf
 OK Demystifying_the_Exploit_Kit-Context_White_Paper.pdf
 
-**Next step:** [[1. What is the API key that fits the following pattern- "AND*"]]
+**Next step:** [[What is the API key that fits the following pattern- AND]]
 

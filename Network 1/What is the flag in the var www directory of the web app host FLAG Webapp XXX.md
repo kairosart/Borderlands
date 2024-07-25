@@ -118,4 +118,4 @@ meterpreter > shell
 
 The flag is {FLAG:Webapp:48a5f4bfef44c8e9b34b926051ad35a6}
 
-**Next step:** [[5. What is the flag in the "root" directory of router1? {FLAG Router1 XXX}]]
+**Next step:** [[What is the flag in the root directory of router1 FLAG Router1 XXX]]

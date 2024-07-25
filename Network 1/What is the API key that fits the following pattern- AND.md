@@ -60,4 +60,4 @@ Enter the Encrypt string and the Key.
 
 API key that fits the following pattern "AND*" is **ANDVOWLDLAS5Q8OQZ2tuIPGcOu2mXk**
 
-**Next step:** [[2. What is the API key that fits the following pattern- "WEB*"]]
+**Next step:** [[What is the API key that fits the following pattern- WEB]]

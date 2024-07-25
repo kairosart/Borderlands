@@ -33,4 +33,4 @@ You have to check out every file to find the WEB flag, but you can use this comm
 
 On /home.php you'll find apikey=**WEBLhvOJAH8d50Z4y5G5g4McG1GMGD**.
 
-**Next step:** [[3. What is the API key that fits the following pattern-"GIT*"]]
+**Next step:** [[What is the API key that fits the following pattern-GIT]]
