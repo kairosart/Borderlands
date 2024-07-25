@@ -1,7 +1,8 @@
 {
-  "accentColor": "",
+  "accentColor": "#ffffff",
   "nativeMenus": false,
   "enabledCssSnippets": [
     "snippet"
-  ]
+  ],
+  "cssTheme": "Obsidianite"
 }

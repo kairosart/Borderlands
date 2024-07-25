@@ -31,11 +31,11 @@ PORT     STATE  SERVICE    VERSION
 
 80/tcp   open   http       nginx 1.14.0 (Ubuntu)
 
-|_http-server-header: nginx/1.14.0 (Ubuntu)
+|http-server-header: nginx/1.14.0 (Ubuntu)
 | http-enum: 
 |   /info.php: Possible information file
 <font color="#ffc000">|_  /.git/HEAD: Git folder</font>
-[[GitHack]]
+
 
 8080/tcp closed http-proxy
 Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
@@ -43,3 +43,4 @@ Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
 Nmap done: 1 IP address (1 host up) scanned in 131.49 seconds
 
+**Next step:** [[GitHack]]

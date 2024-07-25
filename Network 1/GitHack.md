@@ -14,24 +14,22 @@ Run the exploit.
 [+] Context_Red_Teaming_Guide.pdf
 [+] Context_White_Paper_Pen_Test_101.pdf
 [+] Demystifying_the_Exploit_Kit_-_Context_White_Paper.pdf
-[+] Glibc_Adventures-The_Forgotten_Chunks.pdf
-[+] api.php
-[[1. What is the API key that fits the following pattern- "AND*"]]
-[[3. What is the API key that fits the following pattern-"GIT*"]]
-[[4. What is the flag in the var www directory of the web app host? {FLAG Webapp XXX}]]
-[+] functions.php
-[+] home.php
-[+] index.php
-[+] info.php
-[OK] home.php
-[OK] functions.php
-[OK] info.php
-[OK] api.php
-[OK] index.php
-[OK] Context_White_Paper_Pen_Test_101.pdf
-[OK] Context_Red_Teaming_Guide.pdf
-[OK] Glibc_Adventures-The_Forgotten_Chunks.pdf
-[OK] CTX_WSUSpect_White_Paper.pdf
-[OK] Demystifying_the_Exploit_Kit_-_Context_White_Paper.pdf
++ Glibc_Adventures-The_Forgotten_Chunks.pdf
++ api.php
++ functions.php
++ home.php
++ index.php
++ info.php
+OK home.php
+OK functions.php
+OK info.php
+OK api.php
+OK index.php
+OK Context_White_Paper_Pen_Test_101.pdf
+OK Context_Red_Teaming_Guide.pdf
+OK Glibc_Adventures-The_Forgotten_Chunks.pdf
+OK CTX_WSUSpect_White_Paper.pdf
+OK Demystifying_the_Exploit_Kit-Context_White_Paper.pdf
 
-[[2. What is the API key that fits the following pattern- "WEB*"]]
+**Next step:** [[1. What is the API key that fits the following pattern- "AND*"]]
+

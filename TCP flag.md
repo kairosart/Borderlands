@@ -19,3 +19,5 @@ Look at the packets and you'll find the FLAG:TCP.
 ![[tcpdump.png]]
 
 The flag is {FLAG:TCP:8fb04648d6b2bd40af6581942fcf483e}
+
+**Next step:** [[UDP flag]]

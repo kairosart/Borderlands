@@ -19,5 +19,4 @@ $ ps -Af
 
 > ![[ps-af.png]]
 
-
-[[BGP hIjacking]]
+**Next step:** [[BGP hIjacking]]
