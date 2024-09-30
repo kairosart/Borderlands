@@ -35,12 +35,8 @@
             "id": "c1bbdd5f2044998a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network 1/5. What is the flag in the \"root\" directory of router1? {FLAG Router1 XXX}.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -65,38 +61,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "c96088cfbbc2f48f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "420b1511e5a39383",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UDP flag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2517c800bc49b671",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Router 1/BGP hIjacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Router 1/BGP hIjacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Router 1/BGP hIjacking.md"
+              }
             }
           }
         ],
@@ -212,6 +182,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -221,77 +192,43 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "e51855959dfd0d98",
-    "type": "floating",
-    "children": [
-      {
-        "id": "571e57e65ab915ae",
-        "type": "window",
-        "children": [
-          {
-            "id": "1791680cee2f69c5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8c416e7f86debe9c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Network 1/1. What is the API key that fits the following pattern- \"AND*\".md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d9f7f99f845a5738",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 510,
-        "y": 195,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d9f7f99f845a5738",
+  "active": "0a0a81ac93f1fb85",
   "lastOpenFiles": [
-    "Network 1/1. What is the API key that fits the following pattern- \"AND*\".md",
-    "index.md",
-    "Squeme.md",
-    "References.md",
-    "docs",
-    "UDP flag.md",
+    "Images/Diagram1.svg",
     "TCP flag.md",
-    "Router 1/BGP hIjacking.md",
+    "index.md",
+    "UDP flag.md",
+    "docs/Images/vineger2.png",
+    "docs/Images/vineger1.png",
+    "docs/Images/uploader.png",
+    "docs/Images/udp_flag.png",
+    "docs/Images/tcpdump.png",
+    "docs/Images/shell.png",
+    "docs/Images/Screenshot from 2024-07-25 19-34-00.png",
+    "docs/Images/ps-af.png",
+    "docs/Images/Pasted image 20240417143321.png",
+    "docs/Images/jadx1.png",
+    "docs/Images/Diagram1.svg.xml",
+    "docs/Images",
     "Router 1/Router exploration.md",
+    "Router 1/BGP hIjacking.md",
+    "Network 1/What is the flag in the var www directory of the web app host FLAG Webapp XXX.md",
+    "Network 1/What is the flag in the root directory of router1 FLAG Router1 XXX.md",
+    "Network 1/What is the API key that fits the following pattern-GIT.md",
+    "Network 1/What is the API key that fits the following pattern- WEB.md",
+    "Network 1/What is the API key that fits the following pattern- AND.md",
+    "Network 1/GitHack.md",
+    "References.md",
+    "Network 1/Network 1 - Enumeration.md",
+    "Network 1/1. What is the API key that fits the following pattern- \"AND*\".md",
+    "Squeme.md",
+    "docs",
     "Network 1/5. What is the flag in the \"root\" directory of router1? {FLAG Router1 XXX}.md",
     "Network 1/4. What is the flag in the var www directory of the web app host? {FLAG Webapp XXX}.md",
     "Network 1/3. What is the API key that fits the following pattern-\"GIT*\".md",
     "Network 1/2. What is the API key that fits the following pattern- \"WEB*\".md",
-    "Network 1/GitHack.md",
-    "Network 1/Network 1 - Enumeration.md",
-    "Images/borderlands1.png",
-    "Images/Screenshot from 2024-07-25 19-34-00.png",
-    "Images/Diagram1.svg",
-    "Images/Diagram0.png",
-    "Images/Diagram0.svg",
     "README.md",
     "web",
-    "Images/tcpdump.png",
-    "Diagram0.svg",
     "Diagram0.md",
     "Router 2",
     "Images/Diagram1.svg.xml"
