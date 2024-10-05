@@ -1,11 +1,39 @@
 {
   "vaultName": "Borderlands",
-  "lastExport": 1727719633514,
+  "lastExport": 1728071717798,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "docs/lib/fonts/2d5198822ab091ce4305.woff2",
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+    "docs/lib/fonts/94f2f163d4b698242fef.otf",
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "docs/lib/fonts/72505e6a122c6acd5471.woff2",
+    "docs/lib/fonts/454577c22304619db035.ttf",
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "docs/lib/media/874d8b8e340f75575caa.svg",
+    "docs/lib/metadata.json",
+    "docs/Network 1/GitHack.html",
+    "docs/Network 1/Network 1 - Enumeration.html",
+    "docs/Network 1/What is the API key that fits the following pattern- AND.html",
+    "docs/Network 1/What is the API key that fits the following pattern- WEB.html",
+    "docs/Network 1/What is the API key that fits the following pattern-GIT.html",
+    "docs/Network 1/What is the flag in the root directory of router1 FLAG Router1 XXX.html",
+    "docs/Network 1/What is the flag in the var www directory of the web app host FLAG Webapp XXX.html",
+    "docs/Router 1/BGP hIjacking.html",
+    "docs/Router 1/Router exploration.html",
+    "docs/index.html",
+    "docs/References.html",
+    "docs/TCP flag.html",
+    "docs/UDP flag.html",
     "Images/apikey.png",
     "Images/bgp.png",
     "Images/BGP Scheme.png",
@@ -13,8 +41,8 @@
     "Images/borderlands1.png",
     "Images/chisel.png",
     "Images/context_web.png",
-    "Images/Diagram0.svg",
     "Images/Diagram0.png",
+    "Images/Diagram0.svg",
     "Images/Diagram1.svg.xml",
     "Images/head.png",
     "Images/jadx1.png",
@@ -73,289 +101,457 @@
   ],
   "fileInfo": {
     "Network 1/GitHack.md": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 1237,
       "exportedPath": "Network 1/GitHack.html",
       "dependencies": []
     },
     "Network 1/Network 1 - Enumeration.md": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 1553,
       "exportedPath": "Network 1/Network 1 - Enumeration.html",
       "dependencies": []
     },
     "Network 1/What is the API key that fits the following pattern- AND.md": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 2181,
       "exportedPath": "Network 1/What is the API key that fits the following pattern- AND.html",
       "dependencies": []
     },
     "Network 1/What is the API key that fits the following pattern- WEB.md": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 997,
       "exportedPath": "Network 1/What is the API key that fits the following pattern- WEB.html",
       "dependencies": []
     },
     "Network 1/What is the API key that fits the following pattern-GIT.md": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 4199,
       "exportedPath": "Network 1/What is the API key that fits the following pattern-GIT.html",
       "dependencies": []
     },
     "Network 1/What is the flag in the root directory of router1 FLAG Router1 XXX.md": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 12690,
       "exportedPath": "Network 1/What is the flag in the root directory of router1 FLAG Router1 XXX.html",
       "dependencies": []
     },
     "Network 1/What is the flag in the var www directory of the web app host FLAG Webapp XXX.md": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 4499,
       "exportedPath": "Network 1/What is the flag in the var www directory of the web app host FLAG Webapp XXX.html",
       "dependencies": []
     },
     "Router 1/BGP hIjacking.md": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 5485,
       "exportedPath": "Router 1/BGP hIjacking.html",
       "dependencies": []
     },
     "Router 1/Router exploration.md": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 520,
       "exportedPath": "Router 1/Router exploration.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 1201,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "References.md": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 250,
       "exportedPath": "References.html",
       "dependencies": []
     },
     "TCP flag.md": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 728,
       "exportedPath": "TCP flag.html",
       "dependencies": []
     },
     "UDP flag.md": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 701,
       "exportedPath": "UDP flag.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
+    "docs/lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 104332,
+      "exportedPath": "docs/lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 7876,
+      "exportedPath": "docs/lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 155288,
+      "exportedPath": "docs/lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 191568,
+      "exportedPath": "docs/lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 192740,
+      "exportedPath": "docs/lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 66800,
+      "exportedPath": "docs/lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 111708,
+      "exportedPath": "docs/lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 104232,
+      "exportedPath": "docs/lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 161376,
+      "exportedPath": "docs/lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "docs/lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 105804,
+      "exportedPath": "docs/lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 98868,
+      "exportedPath": "docs/lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 106876,
+      "exportedPath": "docs/lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "docs/lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 106108,
+      "exportedPath": "docs/lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "docs/lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 317,
+      "exportedPath": "docs/lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "docs/lib/metadata.json": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 7777,
+      "exportedPath": "docs/lib/metadata.json",
+      "dependencies": []
+    },
+    "docs/Network 1/GitHack.html": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 250832,
+      "exportedPath": "docs/Network 1/GitHack.html",
+      "dependencies": []
+    },
+    "docs/Network 1/Network 1 - Enumeration.html": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 252214,
+      "exportedPath": "docs/Network 1/Network 1 - Enumeration.html",
+      "dependencies": []
+    },
+    "docs/Network 1/What is the API key that fits the following pattern- AND.html": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 1734321,
+      "exportedPath": "docs/Network 1/What is the API key that fits the following pattern- AND.html",
+      "dependencies": []
+    },
+    "docs/Network 1/What is the API key that fits the following pattern- WEB.html": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 771398,
+      "exportedPath": "docs/Network 1/What is the API key that fits the following pattern- WEB.html",
+      "dependencies": []
+    },
+    "docs/Network 1/What is the API key that fits the following pattern-GIT.html": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 408190,
+      "exportedPath": "docs/Network 1/What is the API key that fits the following pattern-GIT.html",
+      "dependencies": []
+    },
+    "docs/Network 1/What is the flag in the root directory of router1 FLAG Router1 XXX.html": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 809968,
+      "exportedPath": "docs/Network 1/What is the flag in the root directory of router1 FLAG Router1 XXX.html",
+      "dependencies": []
+    },
+    "docs/Network 1/What is the flag in the var www directory of the web app host FLAG Webapp XXX.html": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 347607,
+      "exportedPath": "docs/Network 1/What is the flag in the var www directory of the web app host FLAG Webapp XXX.html",
+      "dependencies": []
+    },
+    "docs/Router 1/BGP hIjacking.html": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 2262504,
+      "exportedPath": "docs/Router 1/BGP hIjacking.html",
+      "dependencies": []
+    },
+    "docs/Router 1/Router exploration.html": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 372331,
+      "exportedPath": "docs/Router 1/Router exploration.html",
+      "dependencies": []
+    },
+    "docs/index.html": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 548733,
+      "exportedPath": "docs/index.html",
+      "dependencies": []
+    },
+    "docs/References.html": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 248669,
+      "exportedPath": "docs/References.html",
+      "dependencies": []
+    },
+    "docs/TCP flag.html": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 286656,
+      "exportedPath": "docs/TCP flag.html",
+      "dependencies": []
+    },
+    "docs/UDP flag.html": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 281369,
+      "exportedPath": "docs/UDP flag.html",
+      "dependencies": []
+    },
     "Images/apikey.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 19820,
       "exportedPath": "Images/apikey.png",
       "dependencies": []
     },
     "Images/bgp.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 17044,
       "exportedPath": "Images/bgp.png",
       "dependencies": []
     },
     "Images/BGP Scheme.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 9604,
       "exportedPath": "Images/BGP Scheme.png",
       "dependencies": []
     },
     "Images/bgp1.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 23860,
       "exportedPath": "Images/bgp1.png",
       "dependencies": []
     },
     "Images/borderlands1.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 50183,
       "exportedPath": "Images/borderlands1.png",
       "dependencies": []
     },
     "Images/chisel.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 124528,
       "exportedPath": "Images/chisel.png",
       "dependencies": []
     },
     "Images/context_web.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 67311,
       "exportedPath": "Images/context_web.png",
       "dependencies": []
     },
-    "Images/Diagram0.svg": {
-      "modifiedTime": 1727719633514,
-      "sourceSize": 99942,
-      "exportedPath": "Images/Diagram0.svg",
-      "dependencies": []
-    },
     "Images/Diagram0.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 51688,
       "exportedPath": "Images/Diagram0.png",
       "dependencies": []
     },
+    "Images/Diagram0.svg": {
+      "modifiedTime": 1728071717798,
+      "sourceSize": 99942,
+      "exportedPath": "Images/Diagram0.svg",
+      "dependencies": []
+    },
     "Images/Diagram1.svg.xml": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 4095,
       "exportedPath": "Images/Diagram1.svg.xml",
       "dependencies": []
     },
     "Images/head.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 37207,
       "exportedPath": "Images/head.png",
       "dependencies": []
     },
     "Images/jadx1.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 94099,
       "exportedPath": "Images/jadx1.png",
       "dependencies": []
     },
     "Images/Pasted image 20240417143321.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 341994,
       "exportedPath": "Images/Pasted image 20240417143321.png",
       "dependencies": []
     },
     "Images/ps-af.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 30717,
       "exportedPath": "Images/ps-af.png",
       "dependencies": []
     },
     "Images/Screenshot from 2024-07-25 19-34-00.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 40450,
       "exportedPath": "Images/Screenshot from 2024-07-25 19-34-00.png",
       "dependencies": []
     },
     "Images/shell.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 8842,
       "exportedPath": "Images/shell.png",
       "dependencies": []
     },
     "Images/tcpdump.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 9001,
       "exportedPath": "Images/tcpdump.png",
       "dependencies": []
     },
     "Images/udp_flag.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 7721,
       "exportedPath": "Images/udp_flag.png",
       "dependencies": []
     },
     "Images/uploader.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 16177,
       "exportedPath": "Images/uploader.png",
       "dependencies": []
     },
     "Images/vineger1.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 197427,
       "exportedPath": "Images/vineger1.png",
       "dependencies": []
     },
     "Images/vineger2.png": {
-      "modifiedTime": 1727719633514,
+      "modifiedTime": 1728071717798,
       "sourceSize": 238645,
       "exportedPath": "Images/vineger2.png",
       "dependencies": []
