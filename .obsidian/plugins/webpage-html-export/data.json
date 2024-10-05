@@ -38,13 +38,21 @@
   "graphEdgePruning": 100,
   "graphMinNodeSize": 3,
   "graphMaxNodeSize": 7,
-  "showDefaultTreeIcons": true,
+  "showDefaultTreeIcons": false,
   "emojiStyle": "Native",
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
   "exportPath": "/media/sf_obsidian/Borderlands/docs",
   "filesToExport": [
-    []
+    [
+      "Images",
+      "Network 1",
+      "Router 1",
+      "index.md",
+      "References.md",
+      "TCP flag.md",
+      "UDP flag.md"
+    ]
   ]
 }
